@@ -4,7 +4,7 @@ Just a guy looking to make my developer workflow more awesome, build performant
 projects, understand memory, and ultimately craft really awesome software.
 
 <a href="https://grantshatz.gumroad.com/l/github-stats-card-pro">
-  <img alt="GitHub Stats" src="https://167.233.135.161:8083/card?user=ThePrimeagen">
+  <img alt="GitHub Stats" src="https://mug-prophet-evident-concern.trycloudflare.com/card?user=ThePrimeagen">
 </a>
 
 Fun Facts
